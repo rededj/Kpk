@@ -1,0 +1,17 @@
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\VampireSurvivors.csproj.AssemblyReference.cache
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\Game.g.cs
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\MainWindow.g.cs
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\App.g.cs
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\VampireSurvivors_MarkupCompile.cache
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\VampireSurvivors_MarkupCompile.lref
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\Game.baml
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\MainWindow.baml
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\VampireSurvivors.g.resources
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\VampireSurvivors.pdb
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\bin\Debug\VampireSurvivors.exe.config
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\bin\Debug\VampireSurvivors.exe
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\bin\Debug\VampireSurvivors.pdb
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\VampireSurvivors.Properties.Resources.resources
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\VampireSurvivors.csproj.GenerateResource.cache
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\VampireSurvivors.csproj.CoreCompileInputs.cache
+C:\Users\polue\source\repos\VampireSurvivors\VampireSurvivors\obj\Debug\VampireSurvivors.exe
